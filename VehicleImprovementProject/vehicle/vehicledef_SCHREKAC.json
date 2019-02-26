@@ -16,12 +16,13 @@
 			"unit_assault",
 			"unit_tracks",
 			"unit_release",
-            "unit_lance_support",
-            "unit_lance_assassin"
+			"unit_lance_support",
+			"unit_lance_assassin"
 		],
 		"tagSetSourceFile": ""
 	},
-	"Locations": [{
+	"Locations": [
+		{
 			"Location": "Front",
 			"CurrentArmor": 180,
 			"CurrentInternalStructure": 40,
@@ -57,7 +58,8 @@
 			"DamageLevel": "Functional"
 		}
 	],
-	"inventory": [{
+	"inventory": [
+		{
 			"ComponentDefID": "Weapon_Autocannon_AC5_0-STOCK",
 			"ComponentDefType": "Weapon",
 			"MountedLocation": "Turret",

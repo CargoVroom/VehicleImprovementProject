@@ -17,12 +17,13 @@
 			"unit_wheels",
 			"unit_release",
 			"unit_vehicle_carrier",
-            "unit_indirectFire",
-            "unit_lance_support"
+			"unit_indirectFire",
+			"unit_lance_support"
 		],
 		"tagSetSourceFile": ""
 	},
-	"Locations": [{
+	"Locations": [
+		{
 			"Location": "Front",
 			"CurrentArmor": 80,
 			"CurrentInternalStructure": 20,
@@ -58,7 +59,8 @@
 			"DamageLevel": "Functional"
 		}
 	],
-	"inventory": [{
+	"inventory": [
+		{
 			"ComponentDefID": "Weapon_LRM_LRM10_0-STOCK",
 			"ComponentDefType": "Weapon",
 			"MountedLocation": "Turret",

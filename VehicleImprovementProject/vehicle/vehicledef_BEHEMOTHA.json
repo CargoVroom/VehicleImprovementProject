@@ -16,12 +16,13 @@
 			"unit_assault",
 			"unit_tracks",
 			"unit_release",
-            "unit_lance_support",
-            "unit_lance_tank"
+			"unit_lance_support",
+			"unit_lance_tank"
 		],
 		"tagSetSourceFile": ""
 	},
-	"Locations": [{
+	"Locations": [
+		{
 			"Location": "Front",
 			"CurrentArmor": 370,
 			"CurrentInternalStructure": 50,

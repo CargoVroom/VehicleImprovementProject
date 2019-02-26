@@ -25,7 +25,7 @@
 	"Signature": 0,
 	"Radius": 4,
 	"LOSSourcePositions": [
-        {
+		{
 			"x": 0,
 			"y": 3.5,
 			"z": -0.5
@@ -37,7 +37,7 @@
 		}
 	],
 	"LOSTargetPositions": [
-        {
+		{
 			"x": 0,
 			"y": 3.5,
 			"z": -0.5
@@ -64,13 +64,14 @@
 		}
 	],
 	"Locations": [
-            {
+		{
 			"Location": "Front",
 			"Hardpoints": [
-            {
-				"WeaponMount": "Missile",
-				"Omni": false
-			}],
+				{
+					"WeaponMount": "Missile",
+					"Omni": false
+				}
+			],
 			"Tonnage": 0,
 			"InventorySlots": 0,
 			"MaxArmor": 220,
@@ -103,7 +104,7 @@
 		{
 			"Location": "Turret",
 			"Hardpoints": [
-                {
+				{
 					"WeaponMount": "Ballistic",
 					"Omni": false
 				},

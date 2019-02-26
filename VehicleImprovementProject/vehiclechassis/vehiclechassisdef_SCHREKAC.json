@@ -63,7 +63,8 @@
 			"z": -4.5
 		}
 	],
-	"Locations": [{
+	"Locations": [
+		{
 			"Location": "Front",
 			"Hardpoints": [
 				{

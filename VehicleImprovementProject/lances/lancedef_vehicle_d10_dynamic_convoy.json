@@ -1,138 +1,138 @@
 {
-   "Description" : {
-      "Id" : "lancedef_vehicle_d10_dynamic_convoy",
-      "Name" : "Dynamic Dif 10 noncombatant vehicle convoy",
-      "Details" : "",
-      "Icon" : "",
-      "Cost" : 0,
-      "Rarity" : 0,
-      "Purchasable" : false
+   "Description": {
+      "Id": "lancedef_vehicle_d10_dynamic_convoy",
+      "Name": "Dynamic Dif 10 noncombatant vehicle convoy",
+      "Details": "",
+      "Icon": "",
+      "Cost": 0,
+      "Rarity": 0,
+      "Purchasable": false
    },
-   "Difficulty" : 10,
-   "LanceTags" : {
-      "items" : [
+   "Difficulty": 10,
+   "LanceTags": {
+      "items": [
          "lance_type_convoy"
       ],
-      "tagSetSourceFile" : "Tags/LanceTags"
+      "tagSetSourceFile": "Tags/LanceTags"
    },
-   "LanceUnits" : [
+   "LanceUnits": [
       {
-         "unitType" : "Vehicle",
-         "unitId" : "Tagged",
-         "pilotId" : "Tagged",
-         "unitTagSet" : {
-            "items" : [
+         "unitType": "Vehicle",
+         "unitId": "Tagged",
+         "pilotId": "Tagged",
+         "unitTagSet": {
+            "items": [
                "unit_vehicle",
-			   "unit_noncombatant",
+               "unit_noncombatant",
                "unit_heavy"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "excludedUnitTagSet" : {
-            "items" : [
-			   "unit_urbie"
+         "excludedUnitTagSet": {
+            "items": [
+               "unit_urbie"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "pilotTagSet" : {
-            "items" : [
+         "pilotTagSet": {
+            "items": [
                "pilot_sensor"
             ],
-            "tagSetSourceFile" : "Tags/PilotTags"
+            "tagSetSourceFile": "Tags/PilotTags"
          },
-         "excludedPilotTagSet" : {
-            "items" : null,
-            "tagSetSourceFile" : "Tags/PilotTags"
+         "excludedPilotTagSet": {
+            "items": null,
+            "tagSetSourceFile": "Tags/PilotTags"
          }
       },
       {
-         "unitType" : "Vehicle",
-         "unitId" : "Tagged",
-         "pilotId" : "Tagged",
-         "unitTagSet" : {
-            "items" : [
+         "unitType": "Vehicle",
+         "unitId": "Tagged",
+         "pilotId": "Tagged",
+         "unitTagSet": {
+            "items": [
                "unit_vehicle",
-			   "unit_vehicle_apc",
-			   "unit_noncombatant",
+               "unit_vehicle_apc",
+               "unit_noncombatant",
                "unit_heavy"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "excludedUnitTagSet" : {
-            "items" : [
-			   "unit_urbie"
+         "excludedUnitTagSet": {
+            "items": [
+               "unit_urbie"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "pilotTagSet" : {
-            "items" : [
+         "pilotTagSet": {
+            "items": [
                "pilot_sensor"
             ],
-            "tagSetSourceFile" : "Tags/PilotTags"
+            "tagSetSourceFile": "Tags/PilotTags"
          },
-         "excludedPilotTagSet" : {
-            "items" : null,
-            "tagSetSourceFile" : "Tags/PilotTags"
+         "excludedPilotTagSet": {
+            "items": null,
+            "tagSetSourceFile": "Tags/PilotTags"
          }
       },
       {
-         "unitType" : "Vehicle",
-         "unitId" : "Tagged",
-         "pilotId" : "Tagged",
-         "unitTagSet" : {
-            "items" : [
+         "unitType": "Vehicle",
+         "unitId": "Tagged",
+         "pilotId": "Tagged",
+         "unitTagSet": {
+            "items": [
                "unit_vehicle",
-			   "unit_vehicle_apc",
-			   "unit_noncombatant",
+               "unit_vehicle_apc",
+               "unit_noncombatant",
                "unit_heavy"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "excludedUnitTagSet" : {
-            "items" : [
-			   "unit_urbie"
+         "excludedUnitTagSet": {
+            "items": [
+               "unit_urbie"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "pilotTagSet" : {
-            "items" : [
+         "pilotTagSet": {
+            "items": [
                "pilot_sensor"
             ],
-            "tagSetSourceFile" : "Tags/PilotTags"
+            "tagSetSourceFile": "Tags/PilotTags"
          },
-         "excludedPilotTagSet" : {
-            "items" : null,
-            "tagSetSourceFile" : "Tags/PilotTags"
+         "excludedPilotTagSet": {
+            "items": null,
+            "tagSetSourceFile": "Tags/PilotTags"
          }
       },
       {
-         "unitType" : "Vehicle",
-         "unitId" : "Tagged",
-         "pilotId" : "Tagged",
-         "unitTagSet" : {
-            "items" : [
+         "unitType": "Vehicle",
+         "unitId": "Tagged",
+         "pilotId": "Tagged",
+         "unitTagSet": {
+            "items": [
                "unit_vehicle",
-                "unit_heavy"
+               "unit_heavy"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "excludedUnitTagSet" : {
-            "items" : [
-			   "unit_urbie",
+         "excludedUnitTagSet": {
+            "items": [
+               "unit_urbie",
                "unit_hover",
                "unit_carrier"
             ],
-            "tagSetSourceFile" : "Tags/UnitTags"
+            "tagSetSourceFile": "Tags/UnitTags"
          },
-         "pilotTagSet" : {
-            "items" : [
+         "pilotTagSet": {
+            "items": [
                "pilot_npc_d10"
             ],
-            "tagSetSourceFile" : "Tags/PilotTags"
+            "tagSetSourceFile": "Tags/PilotTags"
          },
-         "excludedPilotTagSet" : {
-            "items" : null,
-            "tagSetSourceFile" : "Tags/PilotTags"
+         "excludedPilotTagSet": {
+            "items": null,
+            "tagSetSourceFile": "Tags/PilotTags"
          }
       }
    ]

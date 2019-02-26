@@ -16,12 +16,13 @@
 			"unit_heavy",
 			"unit_tracks",
 			"unit_release",
-            "unit_lance_vanguard",
-            "unit_lance_tank"
+			"unit_lance_vanguard",
+			"unit_lance_tank"
 		],
 		"tagSetSourceFile": ""
 	},
-	"Locations": [{
+	"Locations": [
+		{
 			"Location": "Front",
 			"CurrentArmor": 260,
 			"CurrentInternalStructure": 30,
@@ -65,13 +66,13 @@
 			"HardpointSlot": 0,
 			"DamageLevel": "Functional"
 		},
-        {
-			"ComponentDefID" : "Weapon_MachineGun_MachineGun_0-STOCK",
-			"ComponentDefType" : "Weapon",
-			"MountedLocation" : "Turret",
-			"HardpointSlot" : 1,
-			"DamageLevel" : "Functional"
-        },
+		{
+			"ComponentDefID": "Weapon_MachineGun_MachineGun_0-STOCK",
+			"ComponentDefType": "Weapon",
+			"MountedLocation": "Turret",
+			"HardpointSlot": 1,
+			"DamageLevel": "Functional"
+		},
 		{
 			"ComponentDefID": "Weapon_SRM_SRM6_0-STOCK",
 			"ComponentDefType": "Weapon",

@@ -25,7 +25,7 @@
 	"Signature": 0,
 	"Radius": 4,
 	"LOSSourcePositions": [
-	{
+		{
 			"x": 0,
 			"y": 2.5,
 			"z": -0.5
@@ -99,18 +99,18 @@
 		{
 			"Location": "Turret",
 			"Hardpoints": [
-			{
-				"WeaponMount": "Ballistic",
-				"Omni": false
-			},
-			{
-				"WeaponMount": "Missile",
-				"Omni": false
-			},
-			{
-				"WeaponMount": "Missile",
-				"Omni": false
-			}
+				{
+					"WeaponMount": "Ballistic",
+					"Omni": false
+				},
+				{
+					"WeaponMount": "Missile",
+					"Omni": false
+				},
+				{
+					"WeaponMount": "Missile",
+					"Omni": false
+				}
 			],
 			"Tonnage": 0,
 			"InventorySlots": 0,
