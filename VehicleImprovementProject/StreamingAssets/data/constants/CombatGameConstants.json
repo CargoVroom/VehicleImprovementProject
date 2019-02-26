@@ -1,0 +1,169 @@
+{
+	"Phase":
+	{	
+        "PhaseLightVehicle": 2,
+		"PhaseMediumVehicle": 3,
+        "PhaseHeavyVehicle": 4,
+        "PhaseAssaultVehicle": 5,
+        "PhaseLightTurret": 3,
+        "PhaseMediumTurret": 4,
+        "PhaseHeavyTurret": 5,
+        "PhaseAssaultTurret": 5
+	},
+    "Skills":
+    {
+        "MechDefaultGunnery": 5,
+        "MechDefaultGuts": 5,
+        "MechDefaultPiloting": 5,
+        "MechDefaultTactics": 5,
+        "VehicleDefaultGunnery": 4,
+        "VehicleDefaultGuts": 4,
+        "VehicleDefaultPiloting": 4,
+        "VehicleDefaultTactics": 4,
+        "TurretDefaultGunnery": 3,
+        "TurretDefaultGuts": 3,
+        "TurretDefaultPiloting": 3,
+        "TurretDefaultTactics": 3
+    },
+	"ResolutionConstants":
+	{  
+        "VehicleEvasiveResultMultiplier": 1,
+        "VehiclesGetGuarded": true
+	},
+	"CombatValueMultipliers":
+	{
+		"ArmorMultiplierVehicle": 1.0,
+        "StructureMultiplierVehicle": 1.0
+	},
+    "HitTables":
+    {
+        "HitVehicleLocationFromFront": 
+		[
+            {
+                "k": "Turret",
+                "v": 10
+            },
+            {
+                "k": "Front",
+                "v": 24
+            },
+            {
+                "k": "Left",
+                "v": 20
+            },
+            {
+                "k": "Right",
+                "v": 20
+            }
+        ],
+        "HitVehicleLocationFromLeft": 
+		[
+            {
+                "k": "Turret",
+                "v": 10
+            },
+            {
+                "k": "Front",
+                "v": 24
+            },
+            {
+                "k": "Left",
+                "v": 36
+            },
+            {
+                "k": "Rear",
+                "v": 2
+            }
+        ],
+        "HitVehicleLocationFromRight": 
+		[
+            {
+                "k": "Turret",
+                "v": 10
+            },
+            {
+                "k": "Front",
+                "v": 24
+            },
+            {
+                "k": "Right",
+                "v": 36
+            },
+            {
+                "k": "Rear",
+                "v": 2
+            }
+        ],
+        "HitVehicleLocationFromBack": 
+		[
+            {
+                "k": "Turret",
+                "v": 10
+            },
+            {
+                "k": "Rear",
+                "v": 24
+            },
+            {
+                "k": "Left",
+                "v": 20
+            },
+            {
+                "k": "Right",
+                "v": 20
+            }
+        ],
+        "HitVehicleLocationFromTop": 
+		[
+            {
+                "k": "Turret",
+                "v": 10
+            },
+            {
+                "k": "Front",
+                "v": 20
+            },
+            {
+                "k": "Left",
+                "v": 16
+            },
+            {
+                "k": "Right",
+                "v": 16
+            },
+            {
+                "k": "Rear",
+                "v": 16
+            }
+        ],
+	    "HitVehicleLocationFromArtillery": 
+		[
+            {
+                "k": "Turret",
+                "v": 10
+            },
+            {
+                "k": "Front",
+                "v": 20
+            },
+            {
+                "k": "Left",
+                "v": 16
+            },
+            {
+                "k": "Right",
+                "v": 16
+            },
+            {
+                "k": "Rear",
+                "v": 8
+            }
+        ]
+
+    },
+    "ResolutionConstants":
+    {
+        "MeleeDamageMultiplierTurret": 2.0,
+        "MeleeDamageMultiplierVehicle": 2.0
+    }
+}
