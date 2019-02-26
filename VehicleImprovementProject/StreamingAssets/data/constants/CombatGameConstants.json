@@ -1,17 +1,15 @@
 {
-	"Phase":
-	{	
+    "Phase": {
         "PhaseLightVehicle": 2,
-		"PhaseMediumVehicle": 3,
+        "PhaseMediumVehicle": 3,
         "PhaseHeavyVehicle": 4,
         "PhaseAssaultVehicle": 5,
         "PhaseLightTurret": 3,
         "PhaseMediumTurret": 4,
         "PhaseHeavyTurret": 5,
         "PhaseAssaultTurret": 5
-	},
-    "Skills":
-    {
+    },
+    "Skills": {
         "MechDefaultGunnery": 5,
         "MechDefaultGuts": 5,
         "MechDefaultPiloting": 5,
@@ -25,20 +23,18 @@
         "TurretDefaultPiloting": 3,
         "TurretDefaultTactics": 3
     },
-	"ResolutionConstants":
-	{  
+    "ResolutionConstants": {
         "VehicleEvasiveResultMultiplier": 1,
-        "VehiclesGetGuarded": true
-	},
-	"CombatValueMultipliers":
-	{
-		"ArmorMultiplierVehicle": 1.0,
+        "VehiclesGetGuarded": true,
+        "MeleeDamageMultiplierTurret": 2.0,
+        "MeleeDamageMultiplierVehicle": 2.0
+    },
+    "CombatValueMultipliers": {
+        "ArmorMultiplierVehicle": 1.0,
         "StructureMultiplierVehicle": 1.0
-	},
-    "HitTables":
-    {
-        "HitVehicleLocationFromFront": 
-		[
+    },
+    "HitTables": {
+        "HitVehicleLocationFromFront": [
             {
                 "k": "Turret",
                 "v": 10
@@ -56,8 +52,7 @@
                 "v": 20
             }
         ],
-        "HitVehicleLocationFromLeft": 
-		[
+        "HitVehicleLocationFromLeft": [
             {
                 "k": "Turret",
                 "v": 10
@@ -75,8 +70,7 @@
                 "v": 2
             }
         ],
-        "HitVehicleLocationFromRight": 
-		[
+        "HitVehicleLocationFromRight": [
             {
                 "k": "Turret",
                 "v": 10
@@ -94,8 +88,7 @@
                 "v": 2
             }
         ],
-        "HitVehicleLocationFromBack": 
-		[
+        "HitVehicleLocationFromBack": [
             {
                 "k": "Turret",
                 "v": 10
@@ -113,8 +106,7 @@
                 "v": 20
             }
         ],
-        "HitVehicleLocationFromTop": 
-		[
+        "HitVehicleLocationFromTop": [
             {
                 "k": "Turret",
                 "v": 10
@@ -136,8 +128,7 @@
                 "v": 16
             }
         ],
-	    "HitVehicleLocationFromArtillery": 
-		[
+        "HitVehicleLocationFromArtillery": [
             {
                 "k": "Turret",
                 "v": 10
@@ -159,11 +150,5 @@
                 "v": 8
             }
         ]
-
-    },
-    "ResolutionConstants":
-    {
-        "MeleeDamageMultiplierTurret": 2.0,
-        "MeleeDamageMultiplierVehicle": 2.0
     }
 }
