@@ -55,6 +55,29 @@ And of course HBS Studios for making this great game.
 
 ----------------------------------
 
+0.0.0
+
+Prep for version 2.0 - A lot has changed in the modding scene since 1.0. A lot of the minor modules of this mod are now covered by more comprehenisve standalone mods.
+So it's going to be pared down to be just the vehicles. Which will be expanded, and tagged to be compatible with some of the better non-Roguetech mods.
+Also, i'll be using models from the community asset bundle for some vehicles.
+
+Removed all lances except for the custom convoy ones (for now?)
+Removed contracts,
+Removed vehicle AI behavior tweaks (Going to suggest using AMechWarrior's Better AI),
+Removed Resizer (vehicles will be tagged for resizer compat),
+Pared down Combatconstants edits
+
+
+Actually lets list what we've kept:
+    Movedefs,
+    convoy lances,
+    opforconvoy lances,
+    pathing defs,
+    combat constants vehicle phase, resolution and value settings,
+    noncom pilot,
+    vehicles (most will probably just be replaced with more thoughly tagged Roguetech ones),
+    Vehicle Flamer
+
 Changelog:
 
 1.1.1
