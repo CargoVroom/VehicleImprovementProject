@@ -37,7 +37,6 @@
          },
          "pilotTagSet": {
             "items": [
-               "pilot_sensor"
             ],
             "tagSetSourceFile": "Tags/PilotTags"
          },
@@ -61,7 +60,6 @@
          },
          "excludedUnitTagSet": {
             "items": [
-               "unit_urbie"
             ],
             "tagSetSourceFile": "Tags/UnitTags"
          },
@@ -91,7 +89,6 @@
          },
          "excludedUnitTagSet": {
             "items": [
-               "unit_urbie"
             ],
             "tagSetSourceFile": "Tags/UnitTags"
          },
@@ -119,9 +116,7 @@
          },
          "excludedUnitTagSet": {
             "items": [
-               "unit_urbie",
-               "unit_hover",
-               "unit_carrier"
+               "unit_hover"
             ],
             "tagSetSourceFile": "Tags/UnitTags"
          },

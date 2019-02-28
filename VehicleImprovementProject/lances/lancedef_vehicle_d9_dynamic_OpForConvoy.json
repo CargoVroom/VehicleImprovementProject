@@ -29,7 +29,6 @@
          },
          "excludedUnitTagSet": {
             "items": [
-               "unit_urbie",
                "unit_noncombatant",
                "unit_hover"
             ],
@@ -60,7 +59,6 @@
          "excludedUnitTagSet": {
             "items": [
                "unit_noncombatant",
-               "unit_urbie",
                "unit_hover"
             ],
             "tagSetSourceFile": "Tags/UnitTags"
@@ -90,7 +88,6 @@
          "excludedUnitTagSet": {
             "items": [
                "unit_noncombatant",
-               "unit_urbie",
                "unit_hover"
             ],
             "tagSetSourceFile": "Tags/UnitTags"
@@ -120,7 +117,6 @@
          "excludedUnitTagSet": {
             "items": [
                "unit_noncombatant",
-               "unit_urbie",
                "unit_hover"
             ],
             "tagSetSourceFile": "Tags/UnitTags"
