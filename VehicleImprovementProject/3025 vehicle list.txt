@@ -1,0 +1,67 @@
+Hovers:
+
+Savanah Master
+Harasser
+J. Edgar
+Pegasus
+Saladin
+Saracen
+Scimitar
+Zephyr
+Condor
+Drillson
+Maxim
+Sabaku Kaze
+
+Tracked:
+
+Ordnance Transport
+Mobile Long Tom
+Scorpion
+Galleon
+Hunter
+Goblin
+Chaprral <--- This has Arrow IV
+Vedette
+Bulldog
+Hi-Scout
+Laser Carrier
+Manticore
+Pike
+Marksman Arty
+Patton
+Rommel
+Brutus
+Padilla
+Von Luckner
+Zhukov
+Demolisher
+Devastator
+Fury Command Tank <---Some models?
+Partisan
+Rhino
+Schrek
+Sturmfeur
+Alacorn
+Ontos
+Puma
+Behemoth
+
+Wheeled:
+
+Swiftwind
+Flatbed
+Darter
+MASH
+Packrat
+Skulker
+Mobile HQ
+Chevalier
+Striker
+Hetzer
+Daaimyo
+Turhan
+Thor <-- Arty
+Demon
+Thumper <--- Arty
+Gallant
